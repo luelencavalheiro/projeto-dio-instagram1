@@ -6,9 +6,9 @@
 <br>
 <br>
 ## Versão desktop ##
-![image instagram](./.github/instagram-desktop.jpg)
+![image instagram](./.github/instagram-desktop.JPG)
 <br>
 <br>
 <br>
 ## Versão mobile ##
-![image instagram](./.github/instagram-mobile.jpg)
+![image instagram](./.github/instagram-mobile.JPG)
